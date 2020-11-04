@@ -1,0 +1,7 @@
+#-------------------- SCANGADO --------------------#
+Diretorio da Imagem:  /home/pedro/aps/test_images/teste_boi.jpg
+Classes:  nao bovino , bovino
+Resultado:  É um Bovino, score: 0.999.
+----------------------------------------------------
+Data:  04/11/2020
+Tempo de execução: 1.03s

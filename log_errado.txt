@@ -1,0 +1,7 @@
+#-------------------- SCANGADO --------------------#
+Diretorio da Imagem:  /home/pedro/aps/test_images/teste_pinguim.jpg
+Classes:  nao bovino , bovino
+Resultado:  Não é um bovino.
+----------------------------------------------------
+Data:  04/11/2020
+Tempo de execução: 1.01s
